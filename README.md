@@ -1,4 +1,4 @@
-# Pink Development Themes for Girls
+# Kawaii Pink Development Themes for Girls
 
 ## Mac Terminal
 
