@@ -1,7 +1,8 @@
 # Kawaii Pink Development Themes for Girls
 
-## Mac Terminal
+![Pink Theme for Mac Terminal](./screenshots/terminal.png)
 
-![Pink Theme for Mac Terminal](./screenshots/terminal.jpg)
+To install on MacOS Terminal, just double click the `pink.terminal` file.
 
-To install, just double click `pink.terminal` file.
+To install on Xshell, import from the `pink.xcs` file.
+
